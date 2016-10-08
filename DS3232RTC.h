@@ -37,7 +37,7 @@
 
 #ifndef DS3232RTC_h
 #define DS3232RTC_h
-#include <Time.h>
+#include <TimeLib.h>
 
 #if defined(ARDUINO) && ARDUINO >= 100
 #include <Arduino.h> 
